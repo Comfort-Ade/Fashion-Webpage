@@ -1,0 +1,24 @@
+body {
+  background-color: #ffeced;
+}
+#first {
+  background-image: url(assest/T.A\ PIC.JPG);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+#collections {
+  background-color: rgb(114, 114, 114);
+  border-radius: 0rem 1rem;
+}
+i {
+  color: #e71d36;
+}
+
+#best {
+  font-size: 2rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-shadow: 2px 3px 5px;
+}
